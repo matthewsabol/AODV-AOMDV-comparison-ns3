@@ -25,6 +25,14 @@ Stručný opis suborov:
 
 6. Vizulaziácia pre protokol AOMDV je vygenerovaná po spustení simulácie a uložená v XML formáte do súboru animation_AOMDV.xml
 
+ODKAZY NA VIDEOZÁZNAMY SIMULACIÍ:
+
+AODV statický model: https://youtu.be/wbbX3LGQR_E
+AOMDV statický model: https://youtu.be/mc4qDrgONjs
+
+AODV dynamický model: https://youtu.be/-kp1tFyHl70
+AOMDV dynamický model: https://youtu.be/Nd6hzvnSZEI
+
  
 - Pre spustenie simulácie protokolu AODV je potrebné nainštalovať softvér NS-3 vo verzii ns-3.32 a nakopírovať súbor manet-routing-compare.cc do zložky ns-3.32/scratch
 
