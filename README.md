@@ -8,7 +8,7 @@ Odolný prenos IoT dát využívajúci alternatívne metódy smerovania v hybrid
 
 KEMT FEI TUKE 2021
 
-Tento repozitár obsahuje zdrojové kódy vypracovanej praktickej časti bakalárskej práce - Porovnanie protokolov AODV a AOMDV  pohľadu odolnosti komunikácie
+Tento repozitár obsahuje zdrojové kódy vypracovanej praktickej časti bakalárskej práce - Porovnanie protokolov AODV a AOMDV z pohľadu odolnosti komunikácie
 
 
 Stručný opis suborov:
