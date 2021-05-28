@@ -1,8 +1,11 @@
 # AODV-AOMDV-comparison-ns3
 
 Autor: Matúš Sabol
+
 Bakalárska práca
+
 Odolný prenos IoT dát využívajúci alternatívne metódy smerovania v hybridných mobilných sieťach.
+
 KEMT FEI TUKE 2021
 
 Tento repozitár obsahuje zdrojové kódy vypracovanej praktickej časti bakalárskej práce 
