@@ -2,13 +2,13 @@
 
 Autor: Matúš Sabol
 
-Bakalárska práca
+Bakalárska práca (Praktická časť)
 
 Odolný prenos IoT dát využívajúci alternatívne metódy smerovania v hybridných mobilných sieťach.
 
 KEMT FEI TUKE 2021
 
-Tento repozitár obsahuje zdrojové kódy vypracovanej praktickej časti bakalárskej práce 
+Tento repozitár obsahuje zdrojové kódy vypracovanej praktickej časti bakalárskej práce - Porovnanie protokolov AODV a AOMDV  pohľadu odolnosti komunikácie
 
 
 Stručný opis suborov:
