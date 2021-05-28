@@ -30,6 +30,6 @@ Stručný opis suborov:
 
 https://www.nsnam.org/releases/ns-3-32/
 
-- Pre spustenie simulácie protokolu je potrebné nainštalovať softvér NS-3 vo verzii ns3.29 a nakopírovať súbor finalsimulationRandom.cc do zložky ns3.29/scratch
+- Pre spustenie simulácie protokolu AOMDV je potrebné nainštalovať softvér NS-3 vo verzii ns3.29 a nakopírovať súbor finalsimulationRandom.cc do zložky ns3.29/scratch
 
 https://www.nsnam.org/releases/ns-3-29/
