@@ -10,6 +10,7 @@ KEMT FEI TUKE 2021
 
 Tento repozitár obsahuje zdrojové kódy vypracovanej praktickej časti bakalárskej práce 
 
+
 Stručný opis suborov:
 
 1. Súbor manet-routing-compare.cc obsahuje simulačný skript protokolu AODV pre simulátor NS-3 v jazyku C++.
