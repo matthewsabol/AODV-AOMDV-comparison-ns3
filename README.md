@@ -28,9 +28,12 @@ Stručný opis suborov:
 ODKAZY NA VIDEOZÁZNAMY SIMULACIÍ:
 
 AODV statický model: https://youtu.be/wbbX3LGQR_E
+
 AOMDV statický model: https://youtu.be/mc4qDrgONjs
 
+
 AODV dynamický model: https://youtu.be/-kp1tFyHl70
+
 AOMDV dynamický model: https://youtu.be/Nd6hzvnSZEI
 
  
